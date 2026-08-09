@@ -19,9 +19,9 @@ export const siteConfig = {
     { id: 1, image: "/photo1.PNG", caption: "prettiest smile ever🤩" },
     { id: 2, image: "/photo2.PNG", caption: "prettiest eyes  🌙" },
     { id: 3, image: "/photo3.PNG", caption: "Your gorgeous smile that fixes my worst days 💖" },
-    { id: 4, image: "/photo5.jpeg", caption: "saree pics 🤭" },
+    { id: 4, image: "/photo5.JPEG", caption: "saree pics 🤭" },
     { id: 5, image: "/photo6.JPEG", caption: "Looking stunning ✨" },
-    { id: 6, image: "/photo4.JPEG", caption: "My favorite human in the entire universe 🌎" },
+    { id: 6, image: "/photo4.jpeg", caption: "My favorite human in the entire universe 🌎" },
     { id: 7, image: "/photo1.PNG", caption: "love youuu ❤️" },
     { id: 8, image: "/photo2.PNG", caption: "Forever yours, now and always, Adiii ❤️" }
   ],

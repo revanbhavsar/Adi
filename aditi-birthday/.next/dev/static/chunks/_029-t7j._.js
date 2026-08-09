@@ -2265,7 +2265,7 @@ const siteConfig = {
         },
         {
             id: 4,
-            image: "/photo5.jpeg",
+            image: "/photo5.JPEG",
             caption: "saree pics 🤭"
         },
         {
@@ -2275,7 +2275,7 @@ const siteConfig = {
         },
         {
             id: 6,
-            image: "/photo4.JPEG",
+            image: "/photo4.jpeg",
             caption: "My favorite human in the entire universe 🌎"
         },
         {
