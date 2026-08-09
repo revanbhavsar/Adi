@@ -26,7 +26,7 @@ export const siteConfig = {
     { id: 8, image: "/photo2.PNG", caption: "Forever yours, now and always, Adiii ❤️" }
   ],
   openWhen: [
-    { title: "Open when you miss me 🥺", content: "Close your eyes, take a deep breath, and remember I'm always just a message away, thinking about you!" },
+    { title: "Open whenever you miss me 🥺", content: "Close your eyes, take a deep breath, and remember I'm always just a message away, thinking about you!" },
     { title: "Open when you're angry at me 😤", content: "I'm probably already saying sorry in my head! Please forgive me, you know you hold my whole heart." },
     { title: "Open when you can't sleep 🌙", content: "Think of our cozy late-night talks and all the happy memories we've created together." },
     { title: "Open when you need confidence ✨", content: "You are the smartest, most gorgeous, and capable girl ever. You can achieve literally anything!" }
